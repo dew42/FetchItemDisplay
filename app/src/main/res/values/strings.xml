@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FetchItemDisplay</string>
+    <string name="fetch_and_display_textview_text">Please press the button to fetch and display the list. On the next screen, press the floating action button to toggle on and off the filtering of null or blank names.</string>
+    <string name="fetch_and_display_button_text">Fetch And Display Data</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="fab_filter_content_description">"Filter on or off showing of items with null or blank names "</string>
+    <string name="list_id_label">List Id:</string>
+    <string name="item_id_label">Item Id: %1$s</string>
+    <string name="item_name_label">Item Name: %1$s</string>
+</resources>
